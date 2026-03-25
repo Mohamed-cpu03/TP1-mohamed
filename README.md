@@ -39,7 +39,7 @@
 ![Status](images/status.png)
 ![cat](images/cat.png)
 ![config](images/config.png)
-![Log](images/log.png)
+![Log](images/log1.png)
 ![Repo](images/repo.png)
 ![Pull Request](images/pr.png)
 
