@@ -16,7 +16,7 @@
 -Ajout d'autres fichiers
 -Historique avec git log
 
-#Gestion des credentials
+# Gestion des credentials
 - Creation du fichier credentials
 - Suppression avec git rm
 - Ajout de .gitignore pour ignorer credentials
