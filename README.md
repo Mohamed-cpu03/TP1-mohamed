@@ -37,8 +37,8 @@ ci-dessous
 ## 📸 Screenshots
 
 ![Status](images/status.png)
-![cat](images/cat)
-![config](images/config)
+![cat](images/cat.png)
+![config](images/config.png)
 ![Log](images/log.png)
 ![Repo](images/repo.png)
 ![Pull Request](images/pr.png)
