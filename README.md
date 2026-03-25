@@ -34,4 +34,11 @@
 # captures d'ecran  
 ci-dessous
 
+## 📸 Screenshots
 
+![Status](images/status.png)
+![cat](images/cat)
+![config](images/config)
+![Log](images/log.png)
+![Repo](images/repo.png)
+![Pull Request](images/pr.png)
